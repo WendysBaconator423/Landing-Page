@@ -61,21 +61,55 @@ button{
     align-self: flex-start;
 }
 
-img{
+.dog{
     display: flex;
     width: 400px;
     height: 200px;
     align-self: flex-end;
     margin-bottom: 100px;
+    border: 0px;
 }
 
-.random{
+.facts{
     justify-self: center;
     padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.citrus{
+    display: flex;
+   justify-content: center;
+}
+
+img{
+  margin: 10px;
+}
+
+.kumquat{
+    margin-right: 15px;
+    width: 150px;
+    
+}
+
+.orange{
+    margin-right: 15px;
+    width: 150px;
+    
+}
+
+.lemon{
+    margin-right: 15px;
+    width: 150px;
+    
+}
+
+.grapefruit{
+    margin-right: 15px;
+    width: 150px;
+    
 }
 
 *{
     margin: 0;
-    background-color: cadetblu;
     font-family:;
 }
