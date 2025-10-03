@@ -1,1 +1,1 @@
-# Landing-Page
+This project is about creating and styling a mock website page, it helps me practice and renforce my skills of css and flexbox positioning
